@@ -1,7 +1,8 @@
 #Phoenix
 
-## Phoenix is a  gym website project
 
+### Phoenix is a gym website
+[repository](https://github.com/syntaxSizer/PhoenixGym)
 
 the website will have :
 1. landing page
@@ -12,7 +13,7 @@ the website will have :
 5. subscripe for updates form
 
 ----------------
-### frame work
+#### frame work
 - foundation
 - HTML&CSS
 - javascrip

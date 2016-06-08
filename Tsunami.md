@@ -1,7 +1,7 @@
-#TSUNAMI
+# TSUNAMI
 
-## TSUNAMI is a music band website project
-
+### A music band website
+[repository](https://github.com/syntaxSizer/tsunami)
 
 the website will hsve :
 1. landing page
@@ -11,7 +11,7 @@ the website will hsve :
 5. Audio play 
 
 ----------------
-### frame work
+#### frame work
 - foundation
 - HTML&CSS
 - javascrip

@@ -1,8 +1,8 @@
 # CODE-REVOLUTION
 
-## CODE-REVOLUTION is a vedio game website
 
-### frame work
+### is a vedio game website
+[repository](https://github.com/syntaxSizer/scarface)
 
 the website will include :
 1. landing page
@@ -14,6 +14,8 @@ the website will include :
 
 
 ----------------
+
+#### frame work
 - foundation
 - HTML&CSS
 - javascrip
