@@ -88,5 +88,17 @@ the app will provide the user with relevant information such as resturants hotel
 according to the users is current location
 
 
+---
+#Android
 
 
+## TV  show/movie app
+
+the app displys videos and information about movies and tv shows
+
+ [repository](https://github.com/ArvidQuarshie/TvMobile)
+
+
+###contributor:
+
+Arvid Quarshie
