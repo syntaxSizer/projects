@@ -1,7 +1,7 @@
 #TSUNAMI
 
 ## TSUNAMI is a music band website project
-### frame work 
+
 
 the website will hsve :
 1. landing page
@@ -11,7 +11,8 @@ the website will hsve :
 5. Audio play 
 
 ----------------
+### frame work
 - foundation
 - HTML&CSS
 - javascrip
-- fortawosome 
+
